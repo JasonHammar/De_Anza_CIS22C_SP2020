@@ -1,7 +1,7 @@
 /**
  * Defines a singly-linked list class 
- * @author
- * @author
+ * @author Jason Hammar
+ * @author Zyad Khater
  */
 
 import java.util.NoSuchElementException;
